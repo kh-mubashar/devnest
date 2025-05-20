@@ -61,5 +61,5 @@ npm run dev
 
 ---
 ##  🌐 Live Demo
-Coming soon: devnest.vercel.app
+Live: https://devnest-three.vercel.app/
 
